@@ -1,0 +1,111 @@
+body{
+    margin:0;
+    font-family: 'Poppins', sans-serif;
+}
+.firstsection{
+    background-image:url(images/donation1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.firstsection div{
+    padding: 300px;
+    text-align: center;
+    color: white;
+}
+.buttonlink{
+    text-decoration: none;
+    background-color: rgb(255, 62, 97);
+    border-radius: 5px;
+    padding: 10px;
+    color: white;
+}
+.firstsection h1{
+    font-size: 40px;
+    
+}
+
+.secondsection{
+    margin: 20%;
+    text-align: center;
+}
+.secondsection div{
+    padding: 25px;
+}
+ul#amountlist li{
+    display: inline;
+    padding: 30px;
+    margin-bottom: 3%;
+    margin-left: 1%;
+    border-radius: 5px;
+    font-size: 20px;
+    background-color: rgb(244, 244, 244);
+}
+
+ul li#boxtk{
+       color: red;
+       background-color: rgb(255, 177, 177);
+       border:solid red;
+       font-weight: bolder;
+       
+}
+
+#amountinput{
+    border: none;
+}
+.thirdsection{
+    margin: 5%;
+    padding: 5%;
+    text-align: center;
+}
+
+.fourthsection{
+    display: flex;
+}
+
+.fourthsection div{
+    margin: 3%;
+    padding: 3%;
+    
+}
+.onediv{
+    background-color: antiquewhite;
+}
+.twodiv{
+    background-color: bisque;
+}
+.threediv{
+    background-color: burlywood;
+}
+.fifthsection{
+    display: flex;
+   padding: 5%;
+}
+.fifthsection div img{
+    width: 500px;
+}
+.fifthsection div{
+    padding: 5%;
+}
+
+.sixthsection{
+    display: flex;
+   padding: 5%;
+}
+.sixthsection div img{
+    width: 500px;
+}
+.sixthsection div{
+    padding: 5%;
+}
+footer{
+    background-color: rgb(14, 0, 33);
+    text-align: center;
+    color: pink;
+}
+footer div{
+    padding: 1%;
+}
+#foot{
+    font-family: 'Pacifico', cursive;
+}
